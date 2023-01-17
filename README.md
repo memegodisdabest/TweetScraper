@@ -18,3 +18,13 @@ python3 tweetscraper.py --query "#Python" --output "tweets.json"
 The script will scrape the tweets and store them in the tweets.json file.
 
 You can then use the data in the JSON file to further analyze the tweets, such as sentiment analysis, keyword extraction, etc.
+
+This version of TweetScraper includes the following features:
+
+Scrape tweets from Twitter using a search query
+Store scraped tweets in a JSON file
+Ability to specify search query and output file name
+Automatically convert response data to JSON
+To use this version of TweetScraper, you will need to have a valid Twitter account and API/access keys. You can obtain these by signing up for a developer account on Twitter.
+
+If you encounter any issues while using TweetScraper, please file an issue on GitHub.
